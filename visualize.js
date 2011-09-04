@@ -32,8 +32,7 @@ plask.simpleWindow({
 		
 		/*
 		 * We want to alter the this.keysPressed object inside the noteOn event.
-		 * But this.keysPressed will refer to midi.keysPressed instead of 
-		 * plask.keysPressed, so we have to introduce a new scope.
+		 * But this.keysPressed will refer to midi.keysPressed instead of plask.keysPressed.
 		 */
 		(function(keysPressed) {
 			midi.on('noteOn', function(keyEvent) {
