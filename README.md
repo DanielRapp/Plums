@@ -8,4 +8,5 @@ You need to [download Plask](http://cloud.github.com/downloads/deanm/plask/Plask
 Example
 ---
 Click the following thumbnail to view the app in action:
+
 [![Vimeo video](http://b.vimeocdn.com/ts/185/228/185228118_100.jpg)](http://vimeo.com/27837655)
