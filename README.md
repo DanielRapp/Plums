@@ -1,4 +1,4 @@
-This is a small app that uses [Plask](http://plask.org) to visualize the input of a MIDI keyboard.
+This is a small app that uses [Plask](http://www.plask.org) to visualize the input of a MIDI keyboard.
 
 Requirements
 ---
